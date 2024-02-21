@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android5_3</string>
+    <string name="search_btn">Search</string>
+    <string name="next_btn">Next Page</string>
+</resources>
